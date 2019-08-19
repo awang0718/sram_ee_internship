@@ -1,5 +1,5 @@
 # sram_ee_internship
 SRAM Corp Electrical Engineering Internship Projects Presentation
 Two projects are covered:
->> Project Tadpole
->> Project ALPSTII
+1) Project Tadpole
+2) Project ALPSTII
